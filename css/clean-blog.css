@@ -321,3 +321,9 @@ footer {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px; }
+
+.thumbnail {
+  opacity:0.75; }
+
+.thumbnail:hover {
+  opacity:0.2; } 
