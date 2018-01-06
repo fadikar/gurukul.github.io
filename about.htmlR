@@ -7,19 +7,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../img/logo_tr.png">
-    <title>Chimpanzee</title>
+    <link rel="icon" href="img/logo_tr.png">
+    <title>About Us</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="../vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-    <link href="../css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/clean-blog.min.css" rel="stylesheet">
 
   </head>
 
@@ -28,7 +28,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand" href="../index.html"><img src='img/logo_tr.png' width="10%" height="10%"/></a>
+        <a class="navbar-brand" href="index.html"><img src='img/logo_tr.png' width="10%" height="10%"/></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -36,19 +36,19 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="../index.html">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../about.html">About</a>
+              <a class="nav-link" href="about.html">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../blog.html">Blog</a>
+              <a class="nav-link" href="blog.html">Post</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../know_us.html">Know Gurus</a>
+              <a class="nav-link" href="know_us.html">Know Gurus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../contact.html">Contact</a>
+              <a class="nav-link" href="contact.html">Contact</a>
             </li>
           </ul>
         </div>
@@ -56,31 +56,42 @@
     </nav>
 
     <!-- Page Header -->
-    <header class="masthead" style="background-image: url('img/Chimp_home.JPG')" >
+    <header class="masthead" style="background-image: url('img/GURUS_cropped.jpg')">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
-          <div class="col-lg-9 col-md-10 mx-auto">
-            <div class="post-heading">
-              <h1>Chimpanzee</h1>
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="page-heading">
+              <h1>About Us</h1>
+              <span class="subheading"></span>
             </div>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Blog Content -->
-    <article>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-
-	    <p>He is the <i>Chimpanzee</i>.</p>
-
-          </div>
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>Different souls stiched together. Yes, that's the shortest description that we could think of. We are a bunch 
+            of ex-students (ex? Really? In spirit, probably not!) students of the 
+            <a href="http://www.rkmcnarendrapur.org/">Ramakrishna Mission Residential College, Narendrapur </a>
+            located in the suburbs of the city of joy, <a href="https://en.wikipedia.org/wiki/Kolkata">Kolkata</a>. Like most other 
+            students, we owe almost everything to 
+          Narendrapur. We studied Mathematics, Chemistry, Physics, Statistics, History, English, Economics. And yet, we speak the same 
+          language. Today, after many years of graduation, we are scattered all over the world, busy in as different professions 
+            as imaginable, we still speak the same language, laugh at jokes that are hardly above absolute rubbish, and of course, obscure
+          to other mortals. We are insignificant people with significant amount of nonsense to talk about. This is our place to give vent to 
+          all of them.</p>
+          <p>It all started with <a href="https://www.bi.vt.edu/ndssl/people/Arindam-Fadikar">Mahaguru</a>, 
+            and <a href="https://www.facebook.com/guruji.tanmoy">Guruji</a>. By the way, Gurukul was the first name to pop up and we 
+            said, "Why not"? Mahaguru and Guruji are therefore the guardians, the spearheads of this clique of ours. But other gurus are also 
+          equally important, and so are the gurumatas (be not mistaken, gurumatas are the wives/partners of gurus) and shisyas. Want to know more
+          about us? Visit us again, more information coming soon!</p>
         </div>
       </div>
-    </article>
+    </div>
 
     <hr>
 
